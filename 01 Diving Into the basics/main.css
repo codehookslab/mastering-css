@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#product-overview {
+    background: #ff1b68;
+    color: white;
+    font-family: 'Livvic', sans-serif;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+h1 {
+    color: white;
+}
